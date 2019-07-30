@@ -1,0 +1,21 @@
+#counter {
+  border: none;
+  color: red;
+  text-decoration-style: double;
+  font-size: 50px;
+  text-align: center;
+}
+body {
+  text-align: center;
+}
+button {
+  border: 1px solid blue;
+  color: blue;
+  background-color: white;
+  border-radius: 25px;
+  width: 150px;
+  cursor: pointer;
+  margin-top: 2%;
+  margin-right: 1%;
+  height: 20px;;
+}
